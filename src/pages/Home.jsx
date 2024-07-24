@@ -7,12 +7,11 @@ import Loader from "../components/Loader";
 const Home = () => {
 
   return (
-    <div>   
-
+    <div>
 
       <Container className="mt-4">
         <h4>
-          WelCome dear 
+          WelCome 
         </h4>
 
      
